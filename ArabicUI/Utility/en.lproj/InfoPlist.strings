@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  ArabicUI
+
+  Created by Devika on 03/11/2026.
+  
+*/
+
+"CFBundleDisplayName" = "ArabicUI";
+"NSCameraUsageDescription" = "We need access to your camera to take profile photos and scan QR codes.";

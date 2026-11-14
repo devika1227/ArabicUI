@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ArabicUI
+
+  Created by Devika on 03/11/2026.
+  
+*/
+
+"welcome" = "مرحباً";
+"name" = "أهلاً %@";
+"description" = "رأس مالك %1$d أقل من %2$d";

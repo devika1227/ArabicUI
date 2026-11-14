@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ArabicUI
+
+  Created by Devika on 03/11/2026.
+  
+*/
+
+"welcome" = "welcome";
+"name" = "Hi %@";
+"description" = "Your capital %1$d is less than %2$d";

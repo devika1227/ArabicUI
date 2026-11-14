@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  ArabicUI
+
+  Created by Devika on 03/11/2026.
+  
+*/
+
+"CFBundleDisplayName" = "واجهة مستخدم باللغة العربية";
+"NSCameraUsageDescription" = "نحن بحاجة إلى الوصول إلى الكاميرا لالتقاط صور الملف الشخصي وفحص رموز الاستجابة السريعة.";
